@@ -8,7 +8,7 @@
   ![GitHub last commit](https://img.shields.io/github/last-commit/chrisjameschamp/Project-Folder-Template?style=flat-square)
 
 </div>
-<h2 align="center">Ideal Usage</h2>
+<h2>Ideal Usage</h2>
 <div align="center">
   
   ![CC](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white)
