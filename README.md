@@ -1,5 +1,5 @@
 <h2 align="center">Project Folder Template</h2>
-<p align="center">Super organized, super simple folder structure for Film / VFX projects.</p>
+<p align="center">Super organized, super simple folder structure for Film / VFX projects</p>
 <div align="center">
   
   ![GitHub documentation](https://img.shields.io/badge/documentation-yes-brightgreen.svg?style=flat-square)
